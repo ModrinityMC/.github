@@ -1,4 +1,4 @@
-# ModrinityMC
+![ModrinityMC](../assets/card.png)
 
 <p align="center">
   <strong>Build. Share. Learn.</strong>
@@ -50,7 +50,7 @@ Whether you're a developer, creator, learner, or Minecraft enthusiast, you're we
 
 For general inquiries and organization-related matters:
 
-**Email:** modrinitymc@gmail.com
+**Email:** [modrinitymc@gmail.com](mailto:modrinitymc@gmail.com)
 
 ---
 
